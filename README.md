@@ -1,4 +1,4 @@
-### Hey, I'm Dinath <a href="https://dinahworld.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey, I'm Dinath <a href="https://dinahworld.xyz/"><img src="https://i.imgur.com/VCYNVaS.gif" width="25px"></a>
 
 Welcome to my DinahWorld, all the projects I've done during my studies (and outside) are here.
 
