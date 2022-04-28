@@ -23,19 +23,3 @@ Some things about me :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinahworld&layout=compact)](https://github.com/dinahworld/github-readme-stats)
 
 ![DinahWorld's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinahworld&theme=material-palenight&show=true)
-
-
-<a href="https://github.com/DinahWorld/DinahWorld-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinahWorld&repo=DinahWorld-Portfolio&theme=material-palenight" />
-</a>
-<a href="https://github.com/DinahWorld/Useless-Document-Generator-p8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinahWorld&repo=Useless-Document-Generator-p8&theme=material-palenight" />
-</a>
-<a href="https://github.com/DinahWorld/Metro-de-Mexico-p8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinahWorld&repo=Metro-de-Mexico-p8&theme=material-palenight" />
-</a>
-<a href="https://github.com/DinahWorld/University-Fighter-VIII">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinahWorld&repo=University-Fighter-VIII&theme=material-palenight" />
-</a>
-
-
