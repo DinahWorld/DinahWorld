@@ -5,8 +5,8 @@ Welcome to my DinahWorld, all the projects I've done during my studies (and outs
 Some things about me :
 
 -   🎂 20
--   👨‍🎓 Université Paris 8 (Bac + 3)
--   🌱 I’m currently learning C#
+-   👨‍🎓 EPITECH - European Institute of Technology (BAC + 4)
+-   🌱 I’m currently learning C# and Angular
 -   🎨 I love design and doing creative things
 -   👨‍💻 But i prefer building applications
 
