@@ -2,11 +2,16 @@
 
 Welcome to my DinahWorld, all the projects I've done during my studies (and outside) are here.
 
-Some things about me :
 
--   🎂 20
+<p align="center"><a href="https://dinahworld.xyz"><img width="100%" src="https://user-images.githubusercontent.com/88936472/180669861-196dd9a8-85e5-41e4-bebb-97cc5f8ac312.png" /></a></p>
+
+
+Some things about me !
+:
+
+-   🎂 21 yo
 -   👨‍🎓 EPITECH - European Institute of Technology (BAC + 4)
--   🌱 I’m currently learning C# and Angular
+-   🌱 I’m currently learning Angular
 -   🎨 I love design and doing creative things
 -   👨‍💻 But i prefer building applications
 
@@ -19,7 +24,7 @@ Some things about me :
 
 📈 **Github Stats**
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinahworld&layout=compact)](https://github.com/dinahworld/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinahworld&layout=compact&theme=material-palenight)](https://github.com/dinahworld/github-readme-stats)
 
 ![DinahWorld's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinahworld&theme=material-palenight&show=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DinahWorld?theme=nord&font=JetBrains%20Mono)
