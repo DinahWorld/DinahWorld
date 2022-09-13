@@ -11,7 +11,7 @@ Some things about me !
 
 -   🎂 21 yo
 -   👨‍🎓 EPITECH - European Institute of Technology (BAC + 4)
--   🌱 I’m currently learning Angular
+-   🌱 I’m currently learning Spring Boot and Cassandra
 -   🎨 I love design and doing creative things
 -   👨‍💻 But i prefer building applications
 
