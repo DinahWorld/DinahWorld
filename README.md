@@ -18,7 +18,7 @@ Some things about me !
 ✨ **Connect with me**
 
 <p align="left">
-<a href="https://dinahworld.xyz/" target="blank"><img align="center" src="./logo/dinahworld.png" alt="dinahworld" width="40" /></a>
+<a href="https://dinahworld.github.io/DinahWorld-Portfolio/" target="blank"><img align="center" src="./logo/dinahworld.png" alt="dinahworld" width="40" /></a>
 <a href="https://www.linkedin.com/in/dinath-sh/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="dinahworld" width="40" /></a>
 </p>
 
