@@ -2,16 +2,14 @@
 
 Welcome to my DinahWorld, all the projects I've done during my studies (and outside) are here.
 
-
-<p align="center"><a href="https://dinahworld.xyz"><img width="100%" src="https://user-images.githubusercontent.com/88936472/184177598-b66c17d5-7897-4925-baba-41da65d89620.jpg" /></a></p>
-
+![DinahVerse](https://github.com/DinahWorld/DinahWorld/assets/88936472/3b410691-a8c4-4482-bf4a-57774502db53)
 
 Some things about me !
 :
 
--   🎂 21 yo
--   👨‍🎓 EPITECH - European Institute of Technology (BAC + 4)
--   🌱 I’m currently learning Spring Boot and Cassandra
+-   🎂 22 yo
+-   👨‍🎓 EPITECH - European Institute of Technology (BAC + 5)
+-   🌱 Full Stack (Spring Boot & ReactJS)
 -   🎨 I love design and doing creative things
 -   👨‍💻 But i prefer building applications
 
