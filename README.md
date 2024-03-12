@@ -2,7 +2,7 @@
 
 Welcome to my DinahWorld, all the projects I've done during my studies (and outside) are here.
 
-![DinahVerse](https://github.com/DinahWorld/DinahWorld/assets/88936472/3b410691-a8c4-4482-bf4a-57774502db53)
+![DinaVerse](https://github.com/DinahWorld/DinahWorld/assets/88936472/9abf38f0-cb5d-4d2e-8e1e-39de60163d6f)
 
 Some things about me !
 :
@@ -16,7 +16,7 @@ Some things about me !
 ✨ **Connect with me**
 
 <p align="left">
-<a href="https://dinahworld.github.io/DinahWorld-Portfolio/" target="blank"><img align="center" src="./logo/dinahworld.png" alt="dinahworld" width="40" /></a>
+<a href="https://dinahworld.github.io/DinahWorld-Portfolio/" target="blank"><img align="center" src="https://github.com/DinahWorld/DinahWorld/assets/88936472/25592198-87b5-4e44-8a3a-b52cb34cbe84" alt="dinahworld" width="40"/></a>
 <a href="https://www.linkedin.com/in/dinath-sh/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="dinahworld" width="40" /></a>
 </p>
 
