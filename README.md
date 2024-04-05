@@ -1,4 +1,4 @@
-### Hey, I'm Dinath <a href="https://dinahworld.xyz/"> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></a>
+### Hey, I'm Dinath <a href="https://dinahworld.xyz/"> <a href="https://dinahworld.github.io/DinahVerse-Portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></a>
 
 Welcome to my DinahWorld, all the projects I've done during my studies (and outside) are here.
 
