@@ -7,9 +7,10 @@ Welcome to my DinahWorld, all the projects I've done during my studies (and outs
 Some things about me !
 :
 
--   🎂 22 yo
--   👨‍🎓 EPITECH - European Institute of Technology (BAC + 5)
--   🌱 Full Stack (Spring Boot & ReactJS)
+-   🎂 23 yo
+-   👨🏾‍🎓 EPITECH - European Institute of Technology ( Gratuaded 2024 🎉)
+-   🧑🏾‍🍳 Société Générale CIB Hong Kong
+-   🌱 Full Stack (Spring Boot & Angular)
 -   🎨 I love design and doing creative things
 -   👨‍💻 But i prefer building applications
 
