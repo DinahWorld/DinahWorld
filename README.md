@@ -7,7 +7,7 @@ Welcome to my DinahWorld, all the projects I've done during my studies (and outs
 Some things about me !
 :
 
--   🎂 23 yo
+-   🎂 24 yo
 -   👨🏾‍🎓 EPITECH - European Institute of Technology ( Gratuaded 2024 🎉)
 -   🧑🏾‍🍳 Société Générale CIB Hong Kong
 -   🌱 Full Stack (Spring Boot & Angular)
